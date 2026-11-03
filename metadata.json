@@ -1,0 +1,6 @@
+{
+  "name": "KIMIA JENIUS - Latihan TKA Kimia 2026 Bersama Mister Jo",
+  "description": "Aplikasi latihan TKA Kimia 2026 interaktif dengan 30 soal HOTS numerik dan penalaran, narator suara bahasa Indonesia, pembahasan bertahap, dan cara cepat ala Mister Jo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
